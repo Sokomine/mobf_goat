@@ -1,0 +1,10 @@
+Goat Anim Scrub Sheet:
+Head_Down: 1-30
+Head_Up: 31-60
+Tail_Wiggle: 61-121
+Walk_Cycle: 122-182
+Lay_Down: 185-215
+Getting_Up: 216-245
+Attack: 246-330
+Chewing: 331-390
+Looking_Around: 391-511
